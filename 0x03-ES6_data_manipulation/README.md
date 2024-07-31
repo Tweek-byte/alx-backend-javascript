@@ -1,0 +1,1 @@
+Solutinos for data manipulation
